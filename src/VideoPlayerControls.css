@@ -1,0 +1,37 @@
+.video-controls {
+  position: fixed;
+  bottom: 40px;
+  left: 170px;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 10px;
+  box-sizing: border-box;
+  z-index: 1000;
+  border: 2px solid white;
+  border-radius: 20px;
+}
+
+.play-pause-button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.video-timeline {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.timeline {
+  width: 100%;
+}
+
+.video-time {
+  font-size: 14px;
+}

@@ -1,0 +1,9 @@
+.right-component {
+    width: 75%; /* Remaining 75% width */
+    height: 100%; /* Full height */
+    background-color: #e0e0e0; /* Optional: background color for better visualization */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
