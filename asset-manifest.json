@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tech/static/css/main.23f78217.css",
+    "main.js": "/Tech/static/js/main.497466e0.js",
+    "static/js/453.ed3810f9.chunk.js": "/Tech/static/js/453.ed3810f9.chunk.js",
+    "static/media/sample.mp4": "/Tech/static/media/sample.e956408b5a061d728338.mp4",
+    "static/media/cmu-serif-500-roman.ttf": "/Tech/static/media/cmu-serif-500-roman.bf7ccd25523b20a288b9.ttf",
+    "static/media/cmu-serif-700-roman.ttf": "/Tech/static/media/cmu-serif-700-roman.45b78465c34fdb77cbdc.ttf",
+    "static/media/cmu-serif-500-italic.ttf": "/Tech/static/media/cmu-serif-500-italic.49618ae7cdca569ab200.ttf",
+    "static/media/cmu-serif-700-italic.ttf": "/Tech/static/media/cmu-serif-700-italic.4f17c6e7a6273c334581.ttf",
+    "static/media/cmu-serif-500-roman.woff2": "/Tech/static/media/cmu-serif-500-roman.87d0cf42c867c8f09b9a.woff2",
+    "static/media/cmu-serif-700-roman.woff2": "/Tech/static/media/cmu-serif-700-roman.cfeffe22f7b8d68454f8.woff2",
+    "static/media/cmu-serif-500-italic.woff2": "/Tech/static/media/cmu-serif-500-italic.8b5fa9b98755bfcf1282.woff2",
+    "static/media/cmu-serif-700-italic.woff2": "/Tech/static/media/cmu-serif-700-italic.a855a4a230d35608fa20.woff2",
+    "static/media/logo.svg": "/Tech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tech/index.html",
+    "main.23f78217.css.map": "/Tech/static/css/main.23f78217.css.map",
+    "main.497466e0.js.map": "/Tech/static/js/main.497466e0.js.map",
+    "453.ed3810f9.chunk.js.map": "/Tech/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23f78217.css",
+    "static/js/main.497466e0.js"
+  ]
+}
